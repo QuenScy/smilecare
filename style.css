@@ -185,7 +185,7 @@ h1, h2, h3, h4 {
 
 .trust-badge {
   position: absolute;
-  bottom: 20px;
+  bottom: 5px;
   left: -30px;
   background: var(--bg-card);
   padding: 16px 24px;
